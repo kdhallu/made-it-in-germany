@@ -58,7 +58,7 @@ Birth certificate (german copy) They just check and give it back<br />
 Kid is required during the appointment<br />
 50 euro<br />
 
-### Kita voucher
+### Kita voucher (1 week but depends on district some are faster some are slower)
 Find nearest jugedmant<br />
 Online form<br />
 All three passport and Blue card<br />
