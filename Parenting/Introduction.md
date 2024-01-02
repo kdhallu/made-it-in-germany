@@ -47,7 +47,7 @@ Kindergeld form<br />
 Annexure<br />
 Employment certificate (Green paper)<br />
 All three blue cards and passport copy<br />
-Employment certificate in different format specific to familykasse https://romde.eu/documente/pdf/036/Arbeitgeberbescheinigung.pdf<br />
+Employment certificate in different format specific to familykasse Get it signed and stamped from your employer https://romde.eu/documente/pdf/036/Arbeitgeberbescheinigung.pdf<br />
 Extended anmuldung which has all the family members in one page<br />
 
 ### Blue card (20 days)
