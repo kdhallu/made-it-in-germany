@@ -54,7 +54,7 @@ Congratulations on the arrival of your bundle of joy! As you embark on this exci
   - Upload the birth certificate online and receive the insurance card in a few days.
 
 ## Elterngeld (Minimum 45 days):
-
+Total of 300 euro a month for max 1 year 
 - **Requirements:**
   - Online form signed by both parents.
   - Passport/Blue card copies (kids' blue card may not be necessary).
@@ -62,6 +62,12 @@ Congratulations on the arrival of your bundle of joy! As you embark on this exci
   - Letter from insurance stating no benefits received.
 
 ## Kindergeld:
+Child benefit and child allowance are paid at the same time. The  last number  of your child benefit number (the so-called final digit) determines  when the relevant amounts  will be transferred to your account. A total of 250 Euro will be credited every month till the child turns 18 years.
+
+An example:
+For the  child benefit number  xxxFKxxxxx 9  , the final digit is a 9. This digit determines on which days the benefits are transferred to the family fund.
+In the following link you should see the overview on which  payment dates apply in 2024  for the final digit of your child benefit number.
+https://www.arbeitsagentur.de/familie-und-kinder/auszahlungstermine
 
 - **Documents Needed:**
   - Original Kindergeld certificate.
