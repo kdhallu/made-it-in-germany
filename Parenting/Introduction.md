@@ -40,7 +40,7 @@ Congratulations on the arrival of your bundle of joy! As you embark on this exci
 
 - **Requirements:**
   - Online filled form.
-  - Baby's photo with a white background (3X2) – take extra copies for the blue card.
+  - Baby's photo with a white background (Check form for size i think its 2.5X 2.5 so it should be 5cm X 5cm) – take extra copies for the blue card.
   - Blue card/Confirmation/D visa printouts of both parents.
   - Anmeldung copy of both parents.
   - Aadhar copies of both parents.
